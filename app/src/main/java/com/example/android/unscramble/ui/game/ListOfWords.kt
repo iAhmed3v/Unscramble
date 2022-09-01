@@ -22,7 +22,8 @@ const val SCORE_INCREASE = 20
 
 // List with all the words for the Game
 val allWordsList: List<String> =
-    listOf("animal",
+    listOf(
+        "animal",
         "auto",
         "anecdote",
         "alphabet",
